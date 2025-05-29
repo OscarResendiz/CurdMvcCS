@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PROYECTOS\\CurdMvcCS\\crudcore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4461041C-6473-4553-8F39-71D4D29FF265}|crudcore.csproj|e:\\proyectos\\curdmvccs\\crudcore\\views\\mantenedor\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4461041C-6473-4553-8F39-71D4D29FF265}|crudcore.csproj|solutionrelative:views\\mantenedor\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4461041C-6473-4553-8F39-71D4D29FF265}|crudcore.csproj|e:\\proyectos\\curdmvccs\\crudcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4461041C-6473-4553-8F39-71D4D29FF265}|crudcore.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4461041C-6473-4553-8F39-71D4D29FF265}|crudcore.csproj|e:\\proyectos\\curdmvccs\\crudcore\\views\\mantenedor\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4461041C-6473-4553-8F39-71D4D29FF265}|crudcore.csproj|solutionrelative:views\\mantenedor\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4461041C-6473-4553-8F39-71D4D29FF265}|crudcore.csproj|e:\\proyectos\\curdmvccs\\crudcore\\controllers\\mantenedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4461041C-6473-4553-8F39-71D4D29FF265}|crudcore.csproj|solutionrelative:controllers\\mantenedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4461041C-6473-4553-8F39-71D4D29FF265}|crudcore.csproj|e:\\proyectos\\curdmvccs\\crudcore\\views\\mantenedor\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4461041C-6473-4553-8F39-71D4D29FF265}|crudcore.csproj|solutionrelative:views\\mantenedor\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4461041C-6473-4553-8F39-71D4D29FF265}|crudcore.csproj|e:\\proyectos\\curdmvccs\\crudcore\\datos\\contactodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4461041C-6473-4553-8F39-71D4D29FF265}|crudcore.csproj|solutionrelative:datos\\contactodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4461041C-6473-4553-8F39-71D4D29FF265}|crudcore.csproj|e:\\proyectos\\curdmvccs\\crudcore\\views\\mantenedor\\guardar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4461041C-6473-4553-8F39-71D4D29FF265}|crudcore.csproj|solutionrelative:views\\mantenedor\\guardar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4461041C-6473-4553-8F39-71D4D29FF265}|crudcore.csproj|e:\\proyectos\\curdmvccs\\crudcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4461041C-6473-4553-8F39-71D4D29FF265}|crudcore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\PROYECTOS\\CurdMvcCS\\crudcore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\PROYECTOS\\CurdMvcCS\\crudcore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T16:48:27.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Eliminar.cshtml",
+              "DocumentMoniker": "E:\\PROYECTOS\\CurdMvcCS\\crudcore\\Views\\Mantenedor\\Eliminar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Mantenedor\\Eliminar.cshtml",
+              "ToolTip": "E:\\PROYECTOS\\CurdMvcCS\\crudcore\\Views\\Mantenedor\\Eliminar.cshtml",
+              "RelativeToolTip": "Views\\Mantenedor\\Eliminar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T16:31:22.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactoDatos.cs",
+              "DocumentMoniker": "E:\\PROYECTOS\\CurdMvcCS\\crudcore\\Datos\\ContactoDatos.cs",
+              "RelativeDocumentMoniker": "Datos\\ContactoDatos.cs",
+              "ToolTip": "E:\\PROYECTOS\\CurdMvcCS\\crudcore\\Datos\\ContactoDatos.cs",
+              "RelativeToolTip": "Datos\\ContactoDatos.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADwvzIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T16:26:07.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Listar.cshtml",
+              "DocumentMoniker": "E:\\PROYECTOS\\CurdMvcCS\\crudcore\\Views\\Mantenedor\\Listar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Mantenedor\\Listar.cshtml",
+              "ToolTip": "E:\\PROYECTOS\\CurdMvcCS\\crudcore\\Views\\Mantenedor\\Listar.cshtml",
+              "RelativeToolTip": "Views\\Mantenedor\\Listar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAC8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T15:31:21.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "E:\\PROYECTOS\\CurdMvcCS\\crudcore\\Views\\Mantenedor\\Editar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Mantenedor\\Editar.cshtml",
+              "ToolTip": "E:\\PROYECTOS\\CurdMvcCS\\crudcore\\Views\\Mantenedor\\Editar.cshtml",
+              "RelativeToolTip": "Views\\Mantenedor\\Editar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T16:18:43.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Guardar.cshtml",
+              "DocumentMoniker": "E:\\PROYECTOS\\CurdMvcCS\\crudcore\\Views\\Mantenedor\\Guardar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Mantenedor\\Guardar.cshtml",
+              "ToolTip": "E:\\PROYECTOS\\CurdMvcCS\\crudcore\\Views\\Mantenedor\\Guardar.cshtml",
+              "RelativeToolTip": "Views\\Mantenedor\\Guardar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T15:31:38.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MantenedorController.cs",
+              "DocumentMoniker": "E:\\PROYECTOS\\CurdMvcCS\\crudcore\\Controllers\\MantenedorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MantenedorController.cs",
+              "ToolTip": "E:\\PROYECTOS\\CurdMvcCS\\crudcore\\Controllers\\MantenedorController.cs",
+              "RelativeToolTip": "Controllers\\MantenedorController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA7wCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T15:34:13.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PROYECTOS\\CurdMvcCS\\crudcore\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\PROYECTOS\\CurdMvcCS\\crudcore\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T15:34:05.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
